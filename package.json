@@ -1,0 +1,15 @@
+{
+  "name": "alpha-bot",
+  "version": "1.0.0",
+  "description": "Moderator bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrRed",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.26",
+    "discord.js": "^14.1.2"
+  }
+}
